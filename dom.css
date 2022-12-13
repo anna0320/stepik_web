@@ -1,0 +1,48 @@
+.body_name {
+margin-top: 20px;
+}
+.body_lastName {
+    margin-top: 20px;
+}
+.body_reply {
+    margin-top: 20px;
+}
+#lastName{
+    margin-left: 10px;
+}
+#firstName{
+    margin-left: 52px;
+}
+.submit{
+    margin-top: 20px;
+    display: inline-block;	
+	box-sizing: border-box;
+	padding: 0 15px;
+	border: 1px solid #7952b3;  
+	border-radius: 5px;
+	height: 38px;
+	line-height: 38px;
+	font-size: 14px;
+	font-weight: 600;
+	text-decoration: none;
+	color: #fff;
+	background-color: #7952b3;
+	cursor: pointer;
+}
+.submit:hover{
+    background-color: #61428f;
+	border-color: #61428f;
+}
+.submit:focus{
+    box-shadow: 0 0 0 3px rgb(121 82 179 / 25%);
+}
+label{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.body_reply{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
